@@ -24,4 +24,8 @@
 
 - **Class-7** : Read file, Write file, Append File, Forward - Indexing, Backward - Indexing, Error handlig-1 (TypeError), Error handlig-2 (ZeroDivisionError), Error handlig-3 (IndexError), Multiple Error handlig
 
-- **Class-8** :
+- **Class-8** : Discuss about html basic tag and give two assignment 
+    - Html Form Design [Live Link](https://formdesignproject.netlify.app/)
+    - Html Routine Table Design [Live Link](https://tabledesignproject.netlify.app/)
+
+- **Class-9** : Django Introduction and show the installation process.
