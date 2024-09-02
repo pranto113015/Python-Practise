@@ -29,3 +29,5 @@
     - Html Routine Table Design [Live Link](https://tabledesignproject.netlify.app/)
 
 - **Class-9** : Django Introduction and show the installation process.
+
+- **Class-10** : Showed the created  previously django project how to re-open and how to  add design template in this project and how to customizing..
