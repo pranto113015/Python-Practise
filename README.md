@@ -33,4 +33,4 @@
 
 - **Class-10** : Showed the created  previously django project how to re-open and how to  add design template in this project and how to customizing. [Class Link](https://www.youtube.com/watch?v=ooGAfghod-M&list=PLWnzEMV33RCtb0qJflt8GFt2W9XJw4gkF&index=10)
 
-- **Class-11** : Hit html file and setup Django backend admin panal and content dynamic. [Class Link](#)
+- **Class-11** : Hit html file and setup Django backend admin panal and content dynamic. [Class Link](https://www.youtube.com/watch?v=PML--YiwZfk)
