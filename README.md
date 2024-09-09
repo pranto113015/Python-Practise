@@ -37,3 +37,5 @@
 
 - **Class-12** : Recap previous django project file setup and add custom template and also dynamic portfolio project setup and templates. [Class Link](https://www.youtube.com/watch?v=PML--YiwZfk)
 
+
+- **Class-13** : Dynamic portfolio project setup and templates. [Class Link](https://www.youtube.com/watch?v=ayboXEt_oFk)
