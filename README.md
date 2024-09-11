@@ -39,3 +39,6 @@
 
 
 - **Class-13** : Dynamic portfolio project setup and templates. [Class Link](https://www.youtube.com/watch?v=ayboXEt_oFk)
+
+
+- **Class-14** : Dynamic portfolio project setup and templates modiify data and image. [Class Link](https://www.youtube.com/watch?v=8VplAsE91zg)
