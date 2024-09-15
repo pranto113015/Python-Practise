@@ -35,7 +35,7 @@
 
 - **Class-11** : Hit html file and setup Django backend admin panal and content dynamic. [Class Link](https://www.youtube.com/watch?v=PML--YiwZfk)
 
-- **Class-12** : Recap previous django project file setup and add custom template and also dynamic portfolio project setup and templates. [Class Link](https://www.youtube.com/watch?v=PML--YiwZfk)
+- **Class-12** : Recap previous django project file setup and add custom template and also dynamic portfolio project setup and templates. [Class Link](https://www.youtube.com/watch?v=_DSivfz2n0E&t=3281s)
 
 
 - **Class-13** : Dynamic portfolio project setup and templates. [Class Link](https://www.youtube.com/watch?v=ayboXEt_oFk)
